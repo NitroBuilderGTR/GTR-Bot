@@ -26,4 +26,4 @@ I use Visual Studio 2019, and do the following,
 
 7) Copy and paste my Commands.cs file, and modify it to your own needs.
 
-And, your done!
+And, your'e done!
